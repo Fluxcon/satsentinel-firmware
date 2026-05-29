@@ -51,6 +51,7 @@ Latest: `satsentinel-cli-v0.1.0` — [Download](https://github.com/Fluxcon/satse
 
 ```bash
 unzip satsentinel-cli-linux.zip
+cd satsentinel-cli
 ./satsentinel-cli
 ```
 
@@ -58,7 +59,8 @@ unzip satsentinel-cli-linux.zip
 
 ```bash
 unzip satsentinel-cli-macos.zip
-xattr -d com.apple.quarantine satsentinel-cli
+xattr -d com.apple.quarantine satsentinel-cli/satsentinel-cli
+cd satsentinel-cli
 ./satsentinel-cli
 ```
 
@@ -66,5 +68,5 @@ xattr -d com.apple.quarantine satsentinel-cli
 
 ### Windows
 
-Extract `satsentinel-cli-win64.zip` and run `satsentinel-cli.exe`. Windows may show a SmartScreen warning — click **More info -> Run anyway**.
+Extract `satsentinel-cli-win64.zip` and run `satsentinel-cli\satsentinel-cli.exe`. Windows may show a SmartScreen warning — click **More info -> Run anyway**.
 <!-- /section:flash-tool -->
