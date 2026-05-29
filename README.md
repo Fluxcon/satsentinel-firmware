@@ -25,30 +25,30 @@ Latest: `v0.1.0` — [Download](https://github.com/Fluxcon/satsentinel-firmware/
 
 | File | Platform |
 |------|----------|
-| `satsentinel-cli-linux` | Linux x64 |
-| `satsentinel-cli-macos` | macOS arm64 |
-| `satsentinel-cli-win64.exe` | Windows x64 |
+| `satsentinel-cli-linux.zip` | Linux x64 |
+| `satsentinel-cli-macos.zip` | macOS arm64 |
+| `satsentinel-cli-win64.zip` | Windows x64 |
 
 ### Linux
 
 ```bash
-chmod +x satsentinel-cli-linux
-./satsentinel-cli-linux
+unzip satsentinel-cli-linux.zip
+./satsentinel-cli
 ```
 
 ### macOS
 
 ```bash
-chmod +x satsentinel-cli-macos
-xattr -d com.apple.quarantine satsentinel-cli-macos
-./satsentinel-cli-macos
+unzip satsentinel-cli-macos.zip
+xattr -d com.apple.quarantine satsentinel-cli
+./satsentinel-cli
 ```
 
 > The `xattr` command removes the Gatekeeper quarantine flag macOS applies to downloaded files. Only required on first run.
 
 ### Windows
 
-Run `satsentinel-cli-win64.exe` directly. Windows may show a SmartScreen warning — click **More info -> Run anyway**.
+Extract `satsentinel-cli-win64.zip` and run `satsentinel-cli.exe`. Windows may show a SmartScreen warning — click **More info -> Run anyway**.
 <!-- /section:flash-tool -->
 
 ## Support
