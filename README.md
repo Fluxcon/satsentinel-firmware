@@ -21,7 +21,13 @@ Latest: `base-v1.0.0-alpha` — [Download](https://github.com/Fluxcon/satsentine
 <!-- section:flash-tool -->
 ## Flash Tool
 
-_No release yet._
+Latest: `v0.1.0` — [Download](https://github.com/Fluxcon/satsentinel-firmware/releases/tag/v0.1.0)
+
+| File | Platform |
+|------|----------|
+| `satsentinel-cli-linux` | Linux x64 |
+| `satsentinel-cli-macos` | macOS arm64 |
+| `satsentinel-cli-win64.exe` | Windows x64 |
 <!-- /section:flash-tool -->
 
 ## Support
