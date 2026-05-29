@@ -4,6 +4,10 @@ Pre-built releases for SatSentinel ESP32-S3 devices.
 
 Browse all releases on the [releases page](https://github.com/Fluxcon/satsentinel-firmware/releases).
 
+## Support
+
+[satsentinel.com](https://satsentinel.com)
+
 <!-- section:base-firmware -->
 ## Base Firmware
 
@@ -50,7 +54,3 @@ xattr -d com.apple.quarantine satsentinel-cli
 
 Extract `satsentinel-cli-win64.zip` and run `satsentinel-cli.exe`. Windows may show a SmartScreen warning — click **More info -> Run anyway**.
 <!-- /section:flash-tool -->
-
-## Support
-
-[satsentinel.com](https://satsentinel.com)
