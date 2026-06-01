@@ -23,6 +23,17 @@ Latest: `base-v0.1.2` — [Download](https://github.com/Fluxcon/satsentinel-firm
 <!-- /section:base-firmware -->
 
 <!-- section:kwehub-firmware -->
+## KweHub Firmware
+
+Latest: `kwehub-v0.1.3` — [Download](https://github.com/Fluxcon/satsentinel-firmware/releases/tag/kwehub-v0.1.3)
+
+| File | Description |
+|------|-------------|
+| `satsentinel.bin` | App firmware — OTA upload via web UI |
+| `bootloader.bin` | Bootloader — first flash only |
+| `partition-table.bin` | Partition table — first flash only |
+| `ota_data_initial.bin` | OTA data init — first flash only |
+| `version.txt` | Build version string |
 <!-- /section:kwehub-firmware -->
 
 <!-- section:flash-tool -->
