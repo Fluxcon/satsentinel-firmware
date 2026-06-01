@@ -9,6 +9,17 @@ Browse all releases on the [releases page](https://github.com/Fluxcon/satsentine
 [satsentinel.com](https://satsentinel.com)
 
 <!-- section:base-firmware -->
+## Base Firmware
+
+Latest: `base-v0.1.2` — [Download](https://github.com/Fluxcon/satsentinel-firmware/releases/tag/base-v0.1.2)
+
+| File | Description |
+|------|-------------|
+| `satsentinel.bin` | App firmware — OTA upload via web UI |
+| `bootloader.bin` | Bootloader — first flash only |
+| `partition-table.bin` | Partition table — first flash only |
+| `ota_data_initial.bin` | OTA data init — first flash only |
+| `version.txt` | Build version string |
 <!-- /section:base-firmware -->
 
 <!-- section:kwehub-firmware -->
