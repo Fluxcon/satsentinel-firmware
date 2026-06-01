@@ -39,7 +39,7 @@ Latest: `kwehub-v0.1.0` — [Download](https://github.com/Fluxcon/satsentinel-fi
 <!-- section:flash-tool -->
 ## Flash Tool
 
-Latest: `satsentinel-cli-v0.1.1` — [Download](https://github.com/Fluxcon/satsentinel-firmware/releases/tag/satsentinel-cli-v0.1.1)
+Latest: `satsentinel-cli-v0.1.2` — [Download](https://github.com/Fluxcon/satsentinel-firmware/releases/tag/satsentinel-cli-v0.1.2)
 
 | File | Platform |
 |------|----------|
