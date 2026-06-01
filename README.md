@@ -11,7 +11,7 @@ Browse all releases on the [releases page](https://github.com/Fluxcon/satsentine
 <!-- section:base-firmware -->
 ## Base Firmware
 
-Latest: `base-v0.1.0` — [Download](https://github.com/Fluxcon/satsentinel-firmware/releases/tag/base-v0.1.0)
+Latest: `base-v0.1.1` — [Download](https://github.com/Fluxcon/satsentinel-firmware/releases/tag/base-v0.1.1)
 
 | File | Description |
 |------|-------------|
