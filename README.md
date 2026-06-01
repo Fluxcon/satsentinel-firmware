@@ -9,92 +9,10 @@ Browse all releases on the [releases page](https://github.com/Fluxcon/satsentine
 [satsentinel.com](https://satsentinel.com)
 
 <!-- section:base-firmware -->
-## Base Firmware
-
-Latest: `base-v0.1.2` — [Download](https://github.com/Fluxcon/satsentinel-firmware/releases/tag/base-v0.1.2)
-
-| File | Description |
-|------|-------------|
-| `satsentinel.bin` | App firmware — OTA upload via web UI |
-| `bootloader.bin` | Bootloader — first flash only |
-| `partition-table.bin` | Partition table — first flash only |
-| `ota_data_initial.bin` | OTA data init — first flash only |
-| `version.txt` | Build version string |
 <!-- /section:base-firmware -->
 
 <!-- section:kwehub-firmware -->
-## KweHub Firmware
-
-Latest: `kwehub-v0.1.3` — [Download](https://github.com/Fluxcon/satsentinel-firmware/releases/tag/kwehub-v0.1.3)
-
-| File | Description |
-|------|-------------|
-| `satsentinel.bin` | App firmware — OTA upload via web UI |
-| `bootloader.bin` | Bootloader — first flash only |
-| `partition-table.bin` | Partition table — first flash only |
-| `ota_data_initial.bin` | OTA data init — first flash only |
-| `version.txt` | Build version string |
-<!-- /section:kwehub-firmware -->
-
-<!-- section:kwehub-firmware -->
-## KweHub Firmware
-
-Latest: `kwehub-v0.1.3` — [Download](https://github.com/Fluxcon/satsentinel-firmware/releases/tag/kwehub-v0.1.3)
-
-| File | Description |
-|------|-------------|
-| `satsentinel.bin` | App firmware — OTA upload via web UI |
-| `bootloader.bin` | Bootloader — first flash only |
-| `partition-table.bin` | Partition table — first flash only |
-| `ota_data_initial.bin` | OTA data init — first flash only |
-| `version.txt` | Build version string |
-<!-- /section:kwehub-firmware -->
-
-<!-- section:kwehub-firmware -->
-## KweHub Firmware
-
-Latest: `kwehub-v0.1.3` — [Download](https://github.com/Fluxcon/satsentinel-firmware/releases/tag/kwehub-v0.1.3)
-
-| File | Description |
-|------|-------------|
-| `satsentinel.bin` | App firmware — OTA upload via web UI |
-| `bootloader.bin` | Bootloader — first flash only |
-| `partition-table.bin` | Partition table — first flash only |
-| `ota_data_initial.bin` | OTA data init — first flash only |
-| `version.txt` | Build version string |
 <!-- /section:kwehub-firmware -->
 
 <!-- section:flash-tool -->
-## Flash Tool
-
-Latest: `satsentinel-cli-v0.1.5` — [Download](https://github.com/Fluxcon/satsentinel-firmware/releases/tag/satsentinel-cli-v0.1.5)
-
-| File | Platform |
-|------|----------|
-| `satsentinel-cli-linux.zip` | Linux x64 |
-| `satsentinel-cli-macos.zip` | macOS arm64 |
-| `satsentinel-cli-win64.zip` | Windows x64 |
-
-### Linux
-
-```bash
-unzip satsentinel-cli-linux.zip
-cd satsentinel-cli
-./satsentinel-cli
-```
-
-### macOS
-
-```bash
-unzip satsentinel-cli-macos.zip
-xattr -d com.apple.quarantine satsentinel-cli/satsentinel-cli
-cd satsentinel-cli
-./satsentinel-cli
-```
-
-> The `xattr` command removes the Gatekeeper quarantine flag macOS applies to downloaded files. Only required on first run.
-
-### Windows
-
-Extract `satsentinel-cli-win64.zip` and run `satsentinel-cli\satsentinel-cli.exe`. Windows may show a SmartScreen warning — click **More info -> Run anyway**.
 <!-- /section:flash-tool -->
