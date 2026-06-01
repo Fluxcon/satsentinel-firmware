@@ -25,7 +25,7 @@ Latest: `base-v0.1.2` — [Download](https://github.com/Fluxcon/satsentinel-firm
 <!-- section:kwehub-firmware -->
 ## KweHub Firmware
 
-Latest: `kwehub-v0.1.2` — [Download](https://github.com/Fluxcon/satsentinel-firmware/releases/tag/kwehub-v0.1.2)
+Latest: `kwehub-v0.1.3` — [Download](https://github.com/Fluxcon/satsentinel-firmware/releases/tag/kwehub-v0.1.3)
 
 | File | Description |
 |------|-------------|
@@ -39,7 +39,7 @@ Latest: `kwehub-v0.1.2` — [Download](https://github.com/Fluxcon/satsentinel-fi
 <!-- section:kwehub-firmware -->
 ## KweHub Firmware
 
-Latest: `kwehub-v0.1.2` — [Download](https://github.com/Fluxcon/satsentinel-firmware/releases/tag/kwehub-v0.1.2)
+Latest: `kwehub-v0.1.3` — [Download](https://github.com/Fluxcon/satsentinel-firmware/releases/tag/kwehub-v0.1.3)
 
 | File | Description |
 |------|-------------|
@@ -53,7 +53,7 @@ Latest: `kwehub-v0.1.2` — [Download](https://github.com/Fluxcon/satsentinel-fi
 <!-- section:kwehub-firmware -->
 ## KweHub Firmware
 
-Latest: `kwehub-v0.1.2` — [Download](https://github.com/Fluxcon/satsentinel-firmware/releases/tag/kwehub-v0.1.2)
+Latest: `kwehub-v0.1.3` — [Download](https://github.com/Fluxcon/satsentinel-firmware/releases/tag/kwehub-v0.1.3)
 
 | File | Description |
 |------|-------------|
