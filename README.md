@@ -25,7 +25,7 @@ Latest: `base-v0.1.2` — [Download](https://github.com/Fluxcon/satsentinel-firm
 <!-- section:kwehub-firmware -->
 ## KweHub Firmware
 
-Latest: `kwehub-v0.1.7` — [Download](https://github.com/Fluxcon/satsentinel-firmware/releases/tag/kwehub-v0.1.7)
+Latest: `kwehub-v0.1.8` — [Download](https://github.com/Fluxcon/satsentinel-firmware/releases/tag/kwehub-v0.1.8)
 
 | File | Description |
 |------|-------------|
